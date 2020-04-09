@@ -48,6 +48,8 @@ to install flask, enter the command on your terminal : <b>  <i> pip install flas
 
 <h3> Step 4: </h3>Enter  the <b><i> url (endpoint) </b> </i> in your browser and you are ready to go.
 
+<img src="images/home.png">
+
 <h3> Step 5: </h3>Enter the details based on the symptoms and you will your probability.
 
 <br><br>
