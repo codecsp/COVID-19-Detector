@@ -41,6 +41,3 @@ step 5: enter the details based on the symptoms and you will your probability.
 
 
 
-
-
-
