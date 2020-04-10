@@ -37,7 +37,7 @@ thier symptoms.</li>
 <h1>How to run the application : </h1>
 
 <h3> Step 1: </h3> clone this repository by entering the command : git clone https://github.com/codecsp/COVID-19-Detector.git DIR<br>
-(Go to the DIR and ypu will the project files listed there)
+(Go to the DIR and you will the project files listed there)
 
 <h3> Step 2: </h3> To execute this application, system must have flask installed.
 
