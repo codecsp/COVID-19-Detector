@@ -43,7 +43,7 @@ thier symptoms.</li>
 
 to install flask, enter the command on your terminal : <b>  <i> pip install flask </b> </i>
 
-<h3> Step 3: </h3>Execute the <b><i>main.py</i></b> file by just using the command python3 main.py
+<h3> Step 3: </h3>Execute the <b><i>main.py</i></b> file by just using the command <b>  <i> python3 main.py </b></i>
 (Flask server will be generated and you will get an endpoint, copy that)
 
 <h3> Step 4: </h3>Enter  the <b><i> url (endpoint) </b> </i> in your browser and you are ready to go.
@@ -53,7 +53,7 @@ to install flask, enter the command on your terminal : <b>  <i> pip install flas
 <h3> Step 5: </h3>Enter the details based on the symptoms and you will your probability.
 
 <br><br>
-If you like this, considerit givig a star and I would be highly encouraged if you wish to contribute to this repository.
+If you like this, consider it givig a star and I would be highly encouraged if you wish to contribute to this repository.
 
 
 
