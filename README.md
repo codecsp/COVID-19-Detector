@@ -4,11 +4,7 @@
 
 This project is aimed to detect the probability of a person suffering from COVID-19. 
 	
-Team Name : NP-HARD <br>
-Leader Name : soham patil <br>
-Branch : Information Technology<br>
-UID : 2017BTEIT00030 <br>
-Year : 3 (TY) </h3>
+
 
 
 <br>
