@@ -52,6 +52,3 @@ to install flask, enter the command on your terminal : <b>  <i> pip install flas
 If you like this, consider it givig a star and I would be highly encouraged if you wish to contribute to this repository.
 
 
-
-<h3>special guidance and reference by : codewithharry youtube channel </h3>
-
